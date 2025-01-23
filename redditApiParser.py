@@ -1,8 +1,8 @@
 import praw
 import requests
 import requests.auth
-botClientID, botClientSecret = '2UAtgn_oCdCF_RZELeTzsg', 'ktxmTxC5icIkiKlq8_YmSxnjgcgwrg',
-username, password = 'Evilemaaz', 'Maazka12'
+botClientID, botClientSecret = '#hidden,
+username, password = 'Evilemaaz', '#hidden
 # client_auth = requests.auth.HTTPBasicAuth(botClientID, botClientSecret)
 # post_data = {"grant_type": "password", "username": username, "password": password}
 # headers = {"User-Agent": "ChangeMeClient/0.1 by YourUsername"}
